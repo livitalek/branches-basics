@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 int main(){
-	printf ( "Hello " );
-	printf ( "Allo " );
-	printf ( "ABC 1231 ");
+	printf ( "FATAL//// " );
+	printf ( "FATAL|||| " );
+	printf ( "FATAL<><> ");
 	return 0;
 }
