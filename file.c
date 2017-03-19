@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-	printf ( "Hello " );
-	printf ( "Hallo" );
+	printf ( "110100100_" );
+	printf ( "01001000110101110111101" );
 	return 0;
 }
